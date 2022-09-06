@@ -1,4 +1,4 @@
-### Hi there  
+### Hi there,  
 
 - 👋 My name is Abdirahman Yasin
 - 🔭 I’m currently working on C++ and backend development
