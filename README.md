@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there  
 
-- my name is Abdirahman Yasin
+- 👋 My name is Abdirahman Yasin
 - 🔭 I’m currently working on C++ and backend development
 - 👯 I’m looking to collaborate on swift iOS/macOS project 👩‍💻 
 - 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
