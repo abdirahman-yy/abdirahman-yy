@@ -1,8 +1,8 @@
 ### Hi there
 
-- 👋 My name is Abdirahman Yasin
+- 👋 My name is Abdirahman Mohamed
 - 🔭 I’m currently working on C++ and backend development
-- 👯 I’m looking to collaborate on swift iOS/macOS project 👩‍💻 
+- 😄 I’m looking to collaborate on swift iOS/macOS project 👩‍💻 
 - 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
 - ⚡ Fun fact: I enjoy playing and watching basketball 🏀 
 
