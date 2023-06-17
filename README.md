@@ -1,6 +1,6 @@
 ### Hi there
 
-- 👋 My name is Abdirahman Mohamed
+- 👋 My name is Abdirahman Yasin
 - 🔭 I’m currently working on iOS Android Development / iOS Development using React Native
 - 😄 I’m looking to collaborate on swift java project 👩‍💻 
 - 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
