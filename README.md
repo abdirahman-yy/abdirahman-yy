@@ -1,10 +1,10 @@
 ### Hi there
 
 - 👋 My name is Abdirahman Mohamed
-- 🔭 I’m currently working on C++ and backend development
+- 🔭 I’m currently working on iOS Android Development / iOS Development using React Native
 - 😄 I’m looking to collaborate on swift java project 👩‍💻 
 - 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
-- ⚡ Fun fact: I enjoy playing and watching basketball 🏀 and soccer ⚽️ 
+- ⚡ Fun fact: I enjoy playing and watching futball/soccer ⚽️ (Favorite team: Real Madrid Favorite Player: Sergio Ramos)
 
 <!--
 **abdirahman-yy/abdirahman-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
