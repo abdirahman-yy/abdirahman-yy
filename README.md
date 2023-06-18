@@ -1,10 +1,10 @@
 ### Hi there
 
 - 👋 My name is Abdirahman Yasin
-- 🔭 I’m currently working on iOS Android Development / iOS Development using React Native
-- 😄 I’m looking to collaborate on swift java project 👩‍💻 
+- 🔭 I’m currently working on Android / iOS Development using React Native
+- 😄 I’m looking to collaborate on swift && java project 👩‍💻 
 - 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
-- ⚡ Fun fact: I enjoy playing and watching futball/soccer ⚽️ (HUGE FAN of Real Madrid and Cristiano Ronaldo/Sergio Ramos)
+- ⚡ Fun fact: I enjoy playing and watching futball (soccer ⚽️) (HUGE FAN of Real Madrid 🇪🇸)
 
 <!--
 **abdirahman-yy/abdirahman-yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
