@@ -2,8 +2,8 @@
 
 - 👋 My name is Abdirahman Yasin Mohamed
 - 🔭 I’m currently working on Android / iOS Development using React Native
-- 😄 I’m looking to collaborate on swift && java project 👩‍💻 
-- 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/
+- 😄 I’m looking to collaborate on swift && java projects 👩‍💻 
+- 📫 How to reach me: https://www.linkedin.com/in/abdirahmanmohamed/ or IG: abdirahman_yy
 - ⚡ Fun fact: I enjoy playing and watching futbal (HUGE FAN of Real Madrid 🇪🇸)
 
 <!--
